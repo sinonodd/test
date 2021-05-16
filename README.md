@@ -12,9 +12,9 @@ Here you can make calls with diffrent methods and retrieve data as json
    - Select an endpoint `pages` for example.
    - Hit Send. you should see a response back with the data.
    
-   ### GET with params
-   - you can specify a parameters to get a custom data from the `endpoint` (optional).
-   - you can enter more that a paramter by clicking `+` button (optional).
+   ### GET with parameters
+   - you can specify a parameters to get custom data from the `endpoint` (optional).
+   - you can enter more than a paramter by clicking `+` button (optional).
    - example:
      - Select `query parameters` option.
      - Enter a `key`/`value` pair. for example (`q`/`faq`).
